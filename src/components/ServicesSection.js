@@ -41,7 +41,7 @@ export default function ServicesSection() {
           />
           <ServicesSectionItem
             icon={<MdPhonelinkSetup />}
-            title="IoT engineer"
+            title="IoT developer"
             desc="Creating tools that can be monitored and controlled remotely using websites and apps"
           />
         </div>
