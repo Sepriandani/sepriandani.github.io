@@ -56,7 +56,7 @@ export default function ProjectItem({ title, desc, img, tags }) {
   return (
     <ProjectItemStyles>
       <div className="projectItem__img">
-        <Link to="/projects">
+        <Link to="/portfolio/projects">
           <img src={img} alt="project img" className="images" />
         </Link>
       </div>

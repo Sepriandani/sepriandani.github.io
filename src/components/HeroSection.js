@@ -165,7 +165,7 @@ export default function HeroSection() {
               like code and making things that make other people amazed with my
               work.
             </PText>
-            <Button btnText="see my works" btnLink="/projects" />
+            <Button btnText="see my works" btnLink="/portfolio/projects" />
           </div>
           <div className="hero__social">
             <div className="hero__social__indicator">
@@ -176,7 +176,7 @@ export default function HeroSection() {
               <ul>
                 <li>
                   <a
-                    href="http://facebook.com/webcifar"
+                    href="http://facebook.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -185,7 +185,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/webcifar"
+                    href="http://twitter.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -194,20 +194,11 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://isntagram.com/web_cifar"
+                    href="http://instagram.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
                     IG
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="http://webcifar.com"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    LI
                   </a>
                 </li>
               </ul>

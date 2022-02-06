@@ -70,23 +70,23 @@ export default function Footer() {
             links={[
               {
                 title: 'Home',
-                path: '/',
+                path: '/portfolio',
                 type: 'Link',
               },
               {
                 type: 'Link',
                 title: 'About',
-                path: '/about',
+                path: '/portfolio/about',
               },
               {
                 type: 'Link',
                 title: 'Projects',
-                path: '/projects',
+                path: '/portfolio/projects',
               },
               {
                 type: 'Link',
                 title: 'Contact',
-                path: '/contact',
+                path: '/portfolio/contact',
               },
             ]}
           />
