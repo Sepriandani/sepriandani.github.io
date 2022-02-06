@@ -113,7 +113,7 @@ export default function NavMenu() {
         </div>
         <li>
           <NavLink
-            to="/"
+            to="/portfolio"
             exact
             onClick={() => setShowNav(!showNav)}
             role="button"
