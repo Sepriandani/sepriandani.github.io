@@ -10,6 +10,7 @@ const projects = [
     desc:
       'This project is my final college assignment. Hipostarine is an IoT project that allows users to control and monitor the condition of hydroponic plants using a website.',
     img: HipostarineImg,
+    tags: ['Mysql', 'Codeigniter', 'Tailwindcss', 'Arduino'],
   },
   {
     id: uuidv4(),
@@ -17,12 +18,14 @@ const projects = [
     desc:
       'This project is to build an e-commerce website for a business called Batik Teknik. Batik Teknik is a business that I founded with my friends where at that time we participated in KBMI 2020 (Indonesian Student Business Competition)',
     img: BatikTeknikImg,
+    tags: ['Wordpress'],
   },
   {
     id: uuidv4(),
     name: 'Portfolio',
     desc: 'This is my portfolio website',
     img: PortfolioImg,
+    tags: ['React'],
   },
 ];
 
