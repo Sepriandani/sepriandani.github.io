@@ -15,13 +15,13 @@ export default function App() {
         <NavMenu />
         <ScrollToTop />
         <Switch>
-          <Route path="/about">
+          <Route path="/portfolio/about">
             <About />
           </Route>
-          <Route path="/contact">
+          <Route path="/portfolio/contact">
             <Contact />
           </Route>
-          <Route path="/projects">
+          <Route path="/portfolio/projects">
             <Projects />
           </Route>
           <Route path="/">

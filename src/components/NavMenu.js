@@ -125,7 +125,7 @@ export default function NavMenu() {
         </li>
         <li>
           <NavLink
-            to="/about"
+            to="/portfolio/about"
             onClick={() => setShowNav(!showNav)}
             role="button"
             onKeyDown={() => setShowNav(!showNav)}
@@ -136,7 +136,7 @@ export default function NavMenu() {
         </li>
         <li>
           <NavLink
-            to="/projects"
+            to="/portfolio/projects"
             onClick={() => setShowNav(!showNav)}
             role="button"
             onKeyDown={() => setShowNav(!showNav)}
@@ -147,7 +147,7 @@ export default function NavMenu() {
         </li>
         <li>
           <NavLink
-            to="/contact"
+            to="/portfolio/contact"
             onClick={() => setShowNav(!showNav)}
             role="button"
             onKeyDown={() => setShowNav(!showNav)}

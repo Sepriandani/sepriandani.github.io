@@ -67,6 +67,9 @@ const AboutSectionStyles = styled.div`
         text-align: center;
       }
     }
+    .aboutImg {
+      display: none;
+    }
   }
 `;
 
