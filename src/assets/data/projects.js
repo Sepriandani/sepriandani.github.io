@@ -2,6 +2,7 @@ import { v4 as uuidv4 } from 'uuid';
 import HipostarineImg from '../images/hipostarine.png';
 import BatikTeknikImg from '../images/batik-teknik.PNG';
 import PortfolioImg from '../images/portfolio.png';
+import Elearning from '../images/e-learning.png';
 
 const projects = [
   {
@@ -26,6 +27,14 @@ const projects = [
     desc: 'This is my portfolio website',
     img: PortfolioImg,
     tags: ['React'],
+  },
+  {
+    id: uuidv4(),
+    name: 'E-Learning',
+    desc:
+      'This project i build for SMAN 16 Bandar Lampung, which is one of the high schools in the city of Bandar Lampung, when I was in college.',
+    img: Elearning,
+    tags: ['Mysql', 'Codeigniter', 'Bootstrap'],
   },
 ];
 
