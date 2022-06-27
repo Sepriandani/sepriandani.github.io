@@ -161,9 +161,9 @@ export default function HeroSection() {
           </div>
           <div className="hero__info">
             <PText>
-              I work as a freelance Full Stack Web Developer and IoT Engineer. I
-              like code and making things that make other people amazed with my
-              work.
+              I work as a freelance Full Stack Web Developer and IoT Developer.
+              I like code and making things that make other people amazed with
+              my work.
             </PText>
             <Button btnText="see my works" btnLink="/portfolio/projects" />
           </div>

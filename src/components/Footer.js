@@ -59,7 +59,7 @@ export default function Footer() {
         <div className="footer__col1">
           <h1 className="footer__col1__title">Seprian Dani</h1>
           <PText>
-            I work as a freelance Full Stack Web Developer and IoT Engineer. I
+            I work as a freelance Full Stack Web Developer and IoT Developer. I
             like code and making things that make other people amazed with my
             work.
           </PText>
@@ -112,19 +112,15 @@ export default function Footer() {
         </div>
         <div className="footer__col4">
           <FooterCol
-            heading="social Links"
+            heading="Follow Me"
             links={[
               {
-                title: 'Facebook',
+                title: 'LinkIn',
                 path: 'http://facebook.com',
               },
               {
-                title: 'Twitter',
+                title: 'Dribble',
                 path: 'http://twitter.com',
-              },
-              {
-                title: 'Instagram',
-                path: 'http://instagram.com',
               },
             ]}
           />

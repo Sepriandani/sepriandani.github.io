@@ -106,7 +106,7 @@ export default function TestimonialsSection() {
           subheading="see what my clients say about me"
           heading="Testimonials"
         />
-        {/* <div className="testimonial__wrapper">
+        <div className="testimonial__wrapper">
           <SwitchTransition component={null}>
             <CSSTransition key={activeSlide.id} timeout={300} classNames="fade">
               <div className="testimonial__info">
@@ -120,7 +120,7 @@ export default function TestimonialsSection() {
               </div>
             </CSSTransition>
           </SwitchTransition>
-        </div> */}
+        </div>
 
         <div className="arrows">
           <div

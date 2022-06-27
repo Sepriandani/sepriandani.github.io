@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import PText from '../components/PText';
 import Button from '../components/Button';
-import AboutImg from '../assets/images/about-page-img.png';
+import AboutImg from '../assets/images/about-page-img2.png';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
 
@@ -84,7 +84,7 @@ export default function About() {
                 Hi, I am <span>Seprian Dani</span>
               </p>
               <h2 className="about__heading">
-                A freelance full stack web developer
+                A freelance full stack web developer and IoT developer
               </h2>
               <div className="about__info">
                 <PText>

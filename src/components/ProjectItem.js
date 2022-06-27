@@ -65,14 +65,14 @@ export default function ProjectItem({ title, desc, img, tags }) {
           <h3 className="projectItem__title">{title}</h3>
         </Link>
         <p className="projectItem__desc">{desc}</p>
-        <div className="stack">
+        {/* <div className="stack">
           <h3 className="stackTitle">Stack</h3>
           <ul className="stackList">
             {tags.map((t) => (
               <li>{t}</li>
             ))}
           </ul>
-        </div>
+        </div> */}
       </div>
     </ProjectItemStyles>
   );
