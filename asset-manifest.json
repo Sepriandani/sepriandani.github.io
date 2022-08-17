@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f2d9c862.chunk.js",
+    "main.js.map": "/static/js/main.f2d9c862.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
+    "static/css/2.f994af45.chunk.css": "/static/css/2.f994af45.chunk.css",
+    "static/js/2.47c062a9.chunk.js": "/static/js/2.47c062a9.chunk.js",
+    "static/js/2.47c062a9.chunk.js.map": "/static/js/2.47c062a9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f994af45.chunk.css.map": "/static/css/2.f994af45.chunk.css.map",
+    "static/js/2.47c062a9.chunk.js.LICENSE.txt": "/static/js/2.47c062a9.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img2.20cc4a30.png": "/static/media/about-page-img2.20cc4a30.png",
+    "static/media/about-sec-img.59925306.png": "/static/media/about-sec-img.59925306.png",
+    "static/media/batik-teknik.d5bb47d0.PNG": "/static/media/batik-teknik.d5bb47d0.PNG",
+    "static/media/e-learning.dbef7740.png": "/static/media/e-learning.dbef7740.png",
+    "static/media/hero2.56fd9f21.png": "/static/media/hero2.56fd9f21.png",
+    "static/media/kbsb.573958ba.png": "/static/media/kbsb.573958ba.png",
+    "static/media/map.da892a91.png": "/static/media/map.da892a91.png",
+    "static/media/mockup.3d1c531d.png": "/static/media/mockup.3d1c531d.png",
+    "static/media/petanicanggih.b3732118.png": "/static/media/petanicanggih.b3732118.png",
+    "static/media/portfolio.77445b4f.png": "/static/media/portfolio.77445b4f.png",
+    "static/media/scroll-down-arrow.8ad25c53.svg": "/static/media/scroll-down-arrow.8ad25c53.svg",
+    "static/media/social-media-arrow.ecc0133c.svg": "/static/media/social-media-arrow.ecc0133c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28230b2.js",
+    "static/css/2.f994af45.chunk.css",
+    "static/js/2.47c062a9.chunk.js",
+    "static/js/main.f2d9c862.chunk.js"
+  ]
+}
